@@ -1,3 +1,3 @@
 # python-mongo-os-monitor
 
-Simple client for study purposes that of visual GUI on Python that generates reports of the monitoring script of Python. 
+Simple client for study purposes of the visual GUI development with Python to generate reports of a Python monitoring script. 
